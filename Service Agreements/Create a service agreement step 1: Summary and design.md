@@ -1,4 +1,4 @@
-# Create a service agreement step 1: Summary and design
+# Create a service agreement step 1: Summary and Design
 
 ---
 
