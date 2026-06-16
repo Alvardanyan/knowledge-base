@@ -27,7 +27,7 @@ The Step 1: Summary and Design section includes service agreement (SA) details s
 Service Agreements can be created in the following locations:
 
 - On a Customer Record or Location Record, click Create Agreement in the Service Agreements section.
-! [image alt](https://github.com/Alvardanyan/knowledge-base/blob/a9440be73acbe8d98f1fc08dc15a81d82230d473/Service%20Agreements/create-a-service-agreement-step-1_-summary-and-design-image.jpg)
+![image alt](https://github.com/Alvardanyan/knowledge-base/blob/a9440be73acbe8d98f1fc08dc15a81d82230d473/Service%20Agreements/create-a-service-agreement-step-1_-summary-and-design-image.jpg)
 - On a Customer Record or Location Record, click More, then click Create Agreement.
 
 ---
