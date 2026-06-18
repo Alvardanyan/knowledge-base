@@ -77,9 +77,9 @@ Boost your brand by customizing your email templates with information specific t
 
    - Add a clickable link to your business, as well as your company logo, to the body of the email. If you use social media, add those links, too. For more, see HTML code.
 
-   Note: The BCC field is not available for E-Sign email templates.
+  > **Note:** The BCC field is not available for E-Sign email templates.
 
-   Tip: If you want to know which Service Agreement you're referring to, add the {ServiceAgreementName} placeholder to the Subject field.
+  > **Tip:** If you want to know which Service Agreement you're referring to, add the {ServiceAgreementName} placeholder to the Subject field.
 
    - If you run multiple businesses, use the {BusinessUnitName} and {BusinessUnitPhoneNumber} placeholders in the statement email template to help your customers identify the company they did business with, in the statement email.
 
@@ -93,7 +93,7 @@ When you customize the service agreement template to include the E-Sign componen
 
 ![Alt text](https://github.com/Alvardanyan/knowledge-base/blob/7c9bda957d4be789c677294f1c6d52d7299b65cb/images/add-e-sign-to-service-agreements-image-6b5eugon.jpg)
 
-Note: Use these placeholders if each customer is assigned to only one business unit.
+> **Note:** Use these placeholders if each customer is assigned to only one business unit.
 
 When the customer opens the email and clicks the agreement link, they are taken to the SA website, which displays all the details. Here, they can View and Sign Agreement.
 
@@ -135,7 +135,7 @@ Email the Service Agreement proposal to your customers with the E-Sign.
 
    d. Summary: Body of the email. This field will pre-populate from the service agreement email template setup.
 
-   Note: Both Email and SMS method is selected by default.
+  > **Note:** Both Email and SMS method is selected by default.
 
    e. Require E-Sign: This checkbox will be selected if the service agreement document template you selected includes an E-Sign component in Step 1: Summary and Design of the service agreement creation process.
 
