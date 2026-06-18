@@ -97,6 +97,8 @@ Note: Use these placeholders if each customer is assigned to only one business u
 
 When the customer opens the email and clicks the agreement link, they are taken to the SA website, which displays all the details. Here, they can View and Sign Agreement.
 
+![Alt text](https://github.com/Alvardanyan/knowledge-base/blob/eddcc3c9f07b2bb8b920e7097207a5fe77300486/images/add-e-sign-to-service-agreements-image-musa0fam.jpg)
+
 After signing, the customer receives a copy of the signed agreement through email.
 
 The service agreement now has the Accepted status. Change it to Activated to proceed.
