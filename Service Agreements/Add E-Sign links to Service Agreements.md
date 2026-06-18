@@ -29,9 +29,11 @@ To quickly start creating a service agreement template customized for your busin
 
 1. Go to the top toolbar and click Settings > Operations > Document Templates.
 2. Search for the Service Agreement - ST Default template and click More > Duplicate.
-3. On the Copy template screen that opens, enter a new Template name and leave the Template Type as Service Agreement.
-4. When finished, click Duplicate.
-5. From the Template Manager page, edit your content as needed:
+   
+   ![Alt text](https://github.com/Alvardanyan/knowledge-base/blob/7c7bd6fe8cbaddfd851ebab0d0dbc8a3111d49eb/images/add-e-sign-to-service-agreements-image-0m4rwbw1.png)
+4. On the Copy template screen that opens, enter a new Template name and leave the Template Type as Service Agreement.
+5. When finished, click Duplicate.
+6. From the Template Manager page, edit your content as needed:
 
    a. Edit the template details: The Template Details section lets you define the print settings of your invoice template, such as paper size, page margins, and more.
 
