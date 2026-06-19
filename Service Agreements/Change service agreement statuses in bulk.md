@@ -12,49 +12,49 @@ Perform bulk status changes to efficiently update multiple Service Agreements at
 * You can apply a bulk status change to agreements that are in compatible lifecycle stages.
 * Bulk status changes can be applied to agreements in Draft, Active, and Auto-Renew statuses.
 
-## Change statuses in bulk
+## Change service agreements status in bulk
 1. Go to the navigation bar and click Follow Up.
 2. In the side menu, click Service Agreements.
 3. From the Service Agreements page, select the agreements you want to apply a bulk status change to.
 4. Click Actions, and from the dropdown select Change Statuses.
-5. From the pop-up that opens, select the new status you want to apply:
-   * Active: Activate draft or pending agreements.
-   * Suspended: Temporarily pause active agreements.
-   * Cancelled: Terminate active or auto-renew agreements.
-6. In the Reason field, enter the reason for the change if required.
+![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/da1d270f9e7751a97e9e87fc1610e7ae90bce21a/images/change-service-agreements-status-in-bulk-image-02ulpzpr.jpg)
+5. From the pop-up that opens, select the new status you want to apply.
+![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/dcf3928a58af9c33ab5c758526a741fd4ddf5627/images/change-service-agreements-status-in-bulk-image-2zdwodhk.jpg)
+6. When finished, click Change Statuses.
 
-> **Tip:** Ensure all mandatory fields within individual agreements are filled out prior to attempting a bulk activation to prevent system processing errors.
->
-> **Example:** If an agreement is missing a billing schedule, it will trigger an validation error during the status change.
+The **Statuses Changed Successfully** message appears to confirm that the new status has been applied.
 
-7. Select the box for Send notification to customer if you want to automatically dispatch status update emails.
-8. When finished, click Change Statuses.
+The following status changes are allowed:
 
-## Change statuses in bulk (mixed agreement states)
-When performing a bulk status change, additional configuration might be required if any of the selected agreements require specific approval permissions or have outstanding balances.
+- From **Draft** → Sent, Accepted, Activated, Rejected.
+- From **Sent** → Draft, Accepted, Rejected, Activated.
+- From **Accepted** → Draft, Sent, Activated, Rejected.
+- From **Rejected** → Draft, Sent, Accepted.
+- From **Auto-Renew** → Draft, Sent, Accepted, Activated, Rejected.
 
-1. After you select the agreements and the target status, choose how to handle exceptions:
-   a. Force status change and override blocks: This overrides minor system validation warnings and applies the status directly.
-   b. Exclude agreements with validation errors: Keeps the problematic agreements in their current status while updating the rest of the batch. When this option is selected, additional summary options appear.
-      * Log Errors
-      * Notify Administrator
-2. When finished, click Confirm Status Change.
+> **Note:** If the agreement status is **Activated**, you can't change it.
 
-## View status change errors
-If the selected status adjustment cannot be applied to an agreement due to system constraints, the system stops the bulk action for that specific agreement and shows the error notification.
 
-1. Click View Errors.
-2. On the drawer that opens, view and fix the errors.
-3. When finished, click Re-run Change Statuses.
+## View errors
+View, troubleshoot, and re-run the bulk actions if you received an error message.
 
-Here are the error types and their descriptions:
+1. Click **View Errors** on the error message.
 
-| Error Type | Error Detail |
-| :--- | :--- |
-| Invalid Status Transition | Cannot move directly from Cancelled to Active status. |
-| Skipped | Agreement must have a valid billing schedule configuration. |
-| Missing Fields | Primary customer contact info is not set. |
-| Permission Denied | User does not have authorization to approve status overrides. |
+A drawer opens where you can view the details of the error.
+
+2. Click the **Agreement ID** to open the agreement in a new tab and fix the errors.
+
+3. When finished, return to the drawer and click **Re-run Change Status**.
+
+## Understand possible errors
+
+View and understand the error types when changing the agreement status in bulk.
+
+| Error Type        | Error Details                              |
+|------------------|--------------------------------------------|
+| Missing Fields    | All required fields must be filled.        |
+| Invalid Status    | Cannot activate from Rejected.             |
+| Other             | An unexpected error occurred.              |
 
 ## Want to learn more?
 * See Create a service agreement step 6: Finalize Status
