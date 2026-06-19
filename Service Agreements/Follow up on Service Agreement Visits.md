@@ -24,6 +24,8 @@ Use the Follow Ups screen to report on, schedule upcoming visits, and export a l
 
 2. In the side menu, click Service Agreement Visits.
 
+![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/3a8c1053f5a9d7d056d18dabf7494d56b3a2dfa1/images/follow-up-on-service-agreement-visits-image-vfhswrq8.png)
+
 3. The Service Agreement Visits tab opens displaying a list of upcoming visits.
 
 Use the filters at the top to filter your visits. You can filter by:
@@ -31,6 +33,9 @@ Use the filters at the top to filter your visits. You can filter by:
 - Customer: Search to find a customer or select the customer name from the list.
 - Location: Search to find a location or select the location from the list.
 - Business Unit: Select a Business Unit to filter visits.
+  
+![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/99782539a45ca3d1ff9e3b66e988348691bc2937/images/follow-up-on-service-agreement-visits-image-a7hrwn3h.png)
+
 - Technician: Select the Preferred Technician on the service agreement from the list.
 - Zip Codes: Enter zip codes for the visits.
 - City Names: Enter city names for the visits.
