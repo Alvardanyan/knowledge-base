@@ -29,7 +29,7 @@ Service Agreements can be created in the following locations:
 - On a Customer Record or Location Record, click Create Agreement in the Service Agreements section.
 ![image alt](https://github.com/Alvardanyan/knowledge-base/blob/a9440be73acbe8d98f1fc08dc15a81d82230d473/Service%20Agreements/create-a-service-agreement-step-1_-summary-and-design-image.jpg)
 - On a Customer Record or Location Record, click More, then click Create Agreement.
-
+![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/06676eaf2d557a3fe06c706beb2a942cfec9ab6d/images/create-a-service-agreement-step-1_-summary-and-design-image-cc2aqnbc.jpg)
 ---
 
 # Step 1: Summary and Design
@@ -49,10 +49,11 @@ Service Agreements can be created in the following locations:
    f. (Optional) Tags: Select a tag from the dropdown list.
 
    g. Select a Document Template Design: This is the document template that will be used to generate the PDF for this agreement. To review the template design, click View Template. The template opens in a new window where you can review its design.
+   ![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/d8add7896d4c46e05d2a4e2a8fc573c1cd853955/images/create-a-service-agreement-step-1_-summary-and-design-image-xp53j6co.jpg)
 
    h. (Optional) Agreement Summary: Enter a summary of the service agreement. The summary is used to capture details that will be shared with your team internally.
 
-   **Tip:** Use tags to support internal coordination. For example, you might add a tag such as Needs Review to indicate that an agreement requires attention or action from your team. Tags allow you to filter and organize agreements in the Follow Up > Service Agreements to quickly identify items that require review or follow-up.
+  > **Tip:** Use tags to support internal coordination. For example, you might add a tag such as Needs Review to indicate that an agreement requires attention or action from your team. Tags allow you to filter and organize agreements in the Follow Up > Service Agreements to quickly identify items that require review or follow-up.
 
 2. When finished, click Continue to Next Step. This takes you to Step 2: Locations and Contacts.
 
