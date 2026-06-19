@@ -39,6 +39,7 @@ Service Agreement custom fields let you capture agreement-specific data, such as
    
    c. Numeric: Numbers only.
 6. When finished, click Save.
+![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/e76c58e0b6ad8a5ec707df825aee3be521237e4d/images/create-custom-fields-on-service-agreements-image-h14reh2s.jpg)
 
 ## Step 2: Enter custom field values on an agreement
 
@@ -51,6 +52,8 @@ Custom fields appear on agreements in all statuses: Draft, Auto-renew, Activated
 
 > **Note:** If the custom field type is set to Dropdown, select a value from the list.
 
+![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/8852aa15f017ddbeacf08870151aa5cf1beab5be/images/create-custom-fields-on-service-agreements-image-nwpicpab.jpg)
+
 3. When finished, click Save and Continue.
 
 ### Post-activation agreements (Activated, Expired, or Cancelled)
@@ -58,12 +61,17 @@ Custom fields appear on agreements in all statuses: Draft, Auto-renew, Activated
 1. Open the agreement you want to add a custom value.
 2. From the Service Agreement Management view, click Details.
 3. Find the name of your custom field, and enter or select the value.
+![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/9919a9c6de7c8b9ecb585f067d01072c0f7c25cd/images/create-custom-fields-on-service-agreements-image-484576kt.jpg))
 4. When finished, click Save.
 
 ## Filter and sort agreements by custom fields
 
 1. Go to the navigation bar and click Follow Up > Service Agreements to open the agreement list.
 2. From the filters section, find the custom field you created and click it.
+> **Note:** If the custom field type is set to Dropdown, select options from the list and click Save.
+![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/8c435c927f1bcb768d7e7e5cd4f2c2cf4b83f336/images/create-custom-fields-on-service-agreements-image-4tixrjah.jpg)
+
+> **Tip:** After you filter the table, you can perform bulk actions on selected service agreements to manage them at once.
 
 ## Add custom fields as KPIs in Service Agreements report
 
@@ -71,11 +79,7 @@ Custom fields appear on agreements in all statuses: Draft, Auto-renew, Activated
 2. Search for the Service Agreements report, and click to open it.
 3. On the report screen, click Edit Report.
 4. In the Search columns field, enter the name of your custom field and select it.
-
-> **Note:** If the custom field type is set to Dropdown, select options from the list and click Save.
-
-> **Tip:** After you filter the table, you can perform bulk actions on selected service agreements to manage them at once.
-
+![image alt](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/910d7387008417cf438f7074c72506cac69d2a22/images/site%20classification.jpg)
 5. When finished, click Apply.
 6. Click Save Changes and then Run Report.
 
