@@ -95,6 +95,8 @@ When you create or edit a contact record, you’re required to enter at least a 
 
 8. When finished, click Create and add contact.
 
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/3043e3fde357c1bbdd7b0b2e8edc50634bdccce1/images/create-a-contact-record-image-65q3wlco.png)
+
 ## Want to Learn More?
 
 - See Edit a contact record in Contact Management
