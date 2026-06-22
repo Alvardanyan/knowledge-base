@@ -33,9 +33,11 @@ You can add notes to contacts from Contact Hub or from any existing customer or 
 
 4. On the Contact Details drawer that opens, click Notes > + Add Note.
 
-5. On the Add Note side panel that opens, enter the note.
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/63a9416a05dc334992f23a38e957edfee34b9e5a/images/add-labels-to-contacts-and-contact-methods-image-5gkh9tzd.jpg)
 
-6. When finished, click Add Note.
+6. On the Add Note side panel that opens, enter the note.
+
+7. When finished, click Add Note.
 
 ### Add notes from a customer or location
 
@@ -84,6 +86,8 @@ If you are looking for a specific note for a contact, you can use the Date and U
 2. Click the Calendar to set a date range, and click Apply.
 
 3. Click the Username to search or select an office employee who left the note, and click Apply.
+
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/e7070a695eb4b257ea96f6a8aeab222574f296d1/images/add-notes-to-a-contact-record-image-hxnuv9sz.jpg)
 
 ## Want to Learn More?
 
