@@ -23,6 +23,8 @@ Use Contact Hub to view and manage all your active and inactive contact records 
 
 2. On the All Contacts screen that opens, click + Associate Contact.
 
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/01428aa184fcff0d40f283d576c16613042b55b1/images/manage-contact-associations-with-customers-and-locations-image-fr45e0n0.png)
+
 3. On the Associate Contact screen that opens, click the Existing Contacts tab, search for and select the contact you want to associate with this customer or location record, then click Associate Contacts.
 
 > **Note:** If you're adding a contact from the customer record, you can check the Add Contact to Customer's Service Location box to also link the contact to the location.
@@ -40,6 +42,8 @@ The contact is now associated with this customer or location record.
 4. Go to the Associations section, and click Add +.
 
 5. From the Association Type dropdown that opens, select the type of the record: Customer or Location.
+
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/c42ce592bcd3423d509b942ef546f81dbae95aa7/images/manage-contact-associations-with-customers-and-locations-image-uin97tv3.jpg)
 
 6. In the search field, enter the name of the customer or location and click to select it.
 
@@ -66,6 +70,8 @@ The contacts are now no longer associated with this customer or location record.
 3. Click the Name of the contact to open it.
 
 4. Go to the Associations section, hover over the customer or location you want to remove, and then click Remove Association.
+
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/0f4c53b688aa5f2643d2d48e9d7c67e4eec6df2b/images/manage-contact-associations-with-customers-and-locations-image-g6h075j5.jpg)
 
 5. Review the confirmation message, then click Remove.
 
