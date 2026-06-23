@@ -39,6 +39,8 @@ There are two types of global and context labels that you can apply to contacts 
 
 - Primary: Add the Primary label to a contact record to make that contact appear at the top of the list of contacts associated with a customer record or location record. Add the Primary label to a contact method to make that contact method the one shown in all previews for the contact record. If multiple contacts have the Primary label, then they’re sorted in alphabetical order of the Name field.
 
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/3d796a3472d758f589f271bb40356bb33a6e26d3/images/understand-contact-labels-image-a0f4btm5.png)
+
 - Mobile: Add the Mobile label to a contact record to make that contact visible in ServiceTitan Mobile for technicians. If a customer or location record has multiple contact records associated with it and the Mobile label is added to one of those contact records, then only the contact with the Mobile label will show up for technicians in ServiceTitan Mobile. If a contact has Mobile and Primary labels applied to it, the Primary contact will sort to the top of the contact list.
 
 ## Want to Learn More?
