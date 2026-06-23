@@ -22,14 +22,17 @@ Use Contact Hub to view and manage all your active and inactive contact records 
 3. In the Contacts section, click Edit.
 
 > **Note:** If there are more than three contacts associated with the record, you can also click View more contacts.
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/9613786df9e1ab9f4b53d69aedb3533ecfa04bfd/images/manage-contacts-from-contact-hub-image-cvppfqwx.png)
 
 4. On the All Contacts screen that opens, click View All Contacts.
 
 Contact Hub opens. You can click Edit columns to rearrange, hide, and show columns.
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/cc28a09a7093be2adee87b3d725a58da9609150b/images/manage-contacts-from-contact-hub-image-cxyybl74.png)
 
 ## Search and filter
 
 Use the Search box to find a contact by Name, Title, or Contact Method such as Phone, Mobile Phone, Email, or Fax. You can also filter contacts by their Association Type, Customer, Location, and Labels.
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/b1bd908b2c5619fcad177673a9c820dcc43db164/images/manage-contacts-from-contact-hub-image-ck16wqc4.png)
 
 To filter contacts:
 
@@ -69,16 +72,16 @@ On the labels tab, you can manage your contact labels, such as Create Label, Sea
 On the Manage tab, you can use consolidated views with automated recommendations to save time reviewing and managing your contacts. This is especially useful for larger and commercial businesses during onboarding and after migrating extensive contact lists from other systems.
 
 - Export Contacts: Click Export Contacts to download all your contacts from ServiceTitan to a CSV file. The exported file includes the contact’s name, title, contact method type, contact method, and memo notes. This is helpful if you need to analyze, share, or migrate the data in external tools.
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/52d0a21d51f32308fdc858f91a1513b8b5becff5/images/manage-contacts-from-contact-hub-image-jigfpnss.png)
 
 - Total Contacts: View your total number of contacts and the total number of contacts with an empty Name field. This helps you identify how many contacts have been cleaned up post-onboarding or post-migration to Contact Management.
+> **Tip:** Click Refresh to update the total number of contacts and contacts with names.
 
 - Recommended Clean-ups: Reduce errors by ensuring each customer has accurate and up-to-date contact information.
 
 - Locations With Upcoming Booked Jobs: Review and update contacts associated with service locations that have Scheduled jobs starting within the next seven days. Click the number in any of the Number of Contacts columns to open the list of associated contacts for that customer or location. This helps you ensure the most relevant contacts are accurate for upcoming jobs.
 
 - Residential customers with contact merge opportunities: Review possible duplicate contacts associated with residential customer or location records. Click Merge to confirm and merge the contacts listed in the Contact Method 1 and Contact Method 2 columns. Click Dismiss to remove the suggestion from the list. This process helps you ensure each residential customer has a consolidated and unified profile, preventing errors caused by duplicate records. Use the date ranges for 7 Days, 30 Days, or All to filter the data, respectively.
-
-> **Tip:** Click Refresh to update the total number of contacts and contacts with names.
 
 > **Note:** Contacts without names likely need some review.
 
