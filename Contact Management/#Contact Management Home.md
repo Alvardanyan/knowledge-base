@@ -4,6 +4,8 @@ Centralize and streamline all your contact information with independent contact 
 
 > **Note:** Contact Management is currently in Early Access and available for specific accounts. If you want to enable this feature for your account, contact your Customer Success Manager (CSM).
 
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/4673da418b94af70400c94f03a7812ba2bb50314/images/contact-management-image-9f3cnjfr.png)
+
 ## Setup
 
 Contact Management transforms how you handle contact information in ServiceTitan by introducing centralized, independent contact records that can be linked to multiple customers and locations. With enriched data fields like names and titles, and a Contact Hub to manage everything in one place, you can add or update contacts in bulk, save time on manual updates, and quickly find the right person when you need them.
