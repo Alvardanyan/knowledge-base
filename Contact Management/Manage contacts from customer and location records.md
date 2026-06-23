@@ -24,12 +24,14 @@ In addition to using Contact Hub, you can still manage contact records directly 
 The Contacts screen opens, displaying all contacts associated with the customer or location record you’re viewing.
 
 > **Note:** If there are more than three contacts associated with the record, you can also click View more contacts.
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/b73dfc54601c639e278e64621640609fb079646c/images/manage-contacts-from-customer-and-location-records-image-odo1edk1.png)
 
 ## Actions
 
 You can select multiple contacts to bulk Merge, Remove Association, or Deactivate them.
 
 > **Note:** You can only merge up to three contacts at a time.
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/5e2b0276154148d2115c8e3fd5113d53d829db77/images/manage-contacts-from-customer-and-location-records-image-vymsinya.png)
 
 You can also:
 
