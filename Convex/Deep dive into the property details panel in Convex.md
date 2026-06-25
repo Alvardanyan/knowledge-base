@@ -24,7 +24,10 @@ To get a more detailed view of a property, click the property list card. The PDP
 - Click Multiple Addresses to view all addresses associated with the property. This feature is visible for properties with multiple addresses.
 - Click Locate on map to zoom in on this property.
 - Click minimize to view the minimized map view of a building.
-- From the same view, click Next > to see available images.
+
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/6c0576ed316e2920e7a603469d9256dd2bd647a2/images/deep-dive-into-the-property-details-panel-image-s9ukxi7e.jpg)
+   
+   - From the same view, click Next > to see available images.
 
 ## Action Bar
 
@@ -38,11 +41,15 @@ The Action bar in PDP includes:
 
    c. When finished, click Create.
 
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/1002f356eed568429bf548d82e1e6f921ce3690d/images/deep-dive-into-the-property-details-panel-image-z0icmfas.jpg)
+
 > **Tip:** In the Manage Campaigns pop-up, click MANAGE to manage campaigns or create a new campaign.
 
 2. Add Assigned Rep: Assign a Rep to the property:
 
    a. In the Assigned Rep pop-up that opens, click the representative's name to assign it. The rep's initials appear, notifying that they are assigned to the property.
+
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/ee1b6b574f6b0730f63141436130a0189613f798/images/deep-dive-into-the-property-details-panel-image-dbxvwd32.jpg)
 
    b. To remove the rep, click the initials icon.
 
@@ -51,6 +58,8 @@ The Action bar in PDP includes:
 3. Assign Stage: Assign a stage to a property. This helps track the progress of the property within your sales pipeline. You can designate the appropriate opportunity stage to reflect where the property currently stands in your workflow.
 
    a. In the Prospect Stage pop-up that opens, select the stage.
+
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/ab9738e1de0752bc155c8999f9defd04d1a6e637/images/deep-dive-into-the-property-details-panel-image-hsy3ew01.jpg)
 
 > **Note:** After the selection, the current prospect stage will be displayed in the action bar.
 
@@ -62,6 +71,8 @@ The Action bar in PDP includes:
 
    b. When finished, click SAVE.
 
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/e5042967fb192c8dfb4013d9e50c9e5aa351f363/images/deep-dive-into-the-property-details-panel-image-t6lus7j7.jpg)
+
 > **Note:** To edit your notes, click the same icon.
 
 5. Contacts: Add an existing contact or create a new one for the property.
@@ -69,6 +80,8 @@ The Action bar in PDP includes:
 > **Note:** A contact added to the property displays as a card in the Contacts section and in the contact grid when you click See All on the contact section.
 
    a. In the Add Contact to Property pop-up that opens, select an existing contact.
+
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/dbfa7986f09d85fb788f6b02d2017869935bb382/images/deep-dive-into-the-property-details-panel-image-oeec0cza.jpg)
 
    b. To create a new contact, click CREATE NEW CONTACT.
 
@@ -81,6 +94,8 @@ The Action bar in PDP includes:
 6. Add More: View more actions available on this property:
 
    a. Click Add to Account and select the account you want to add the property to.
+
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/96630029cae090c689077d75378f610facc9a08a/images/deep-dive-into-the-property-details-panel-image-9155v70s.jpg)
 
    b. Click Add to Opportunity and from the Add Property to Opportunity pop-up, select the opportunity you want to add the property.
 
@@ -98,11 +113,15 @@ The Action bar in PDP includes:
 
 Use Contacts to select a contact you want to call, email, or send to phone the property information. This section only shows the first three saved contacts, however, the Contacts screen displays all contacts. To access the Contacts screen, click See All.
 
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/bff2a65d02a0ed18abece01ef3bc1bcb4e913403/images/deep-dive-into-the-property-details-panel-image-qja9ycf9.jpg)
+
 ## Custom Fields section
 
 Use Custom fields to add and store additional information about a property. The feature is visible if it is set up for your account. To use custom fields:
 
 1. Click See All.
+
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/cc6a50314a85dd270aaf13f710832045720607b7/images/deep-dive-into-the-property-details-panel-image-ftow6bfv.jpg)
 
 2. In the Custom fields pop-up that opens, you can click the field to enter the information or choose the dropdown to select an option.
 
@@ -116,6 +135,10 @@ Use this section to learn more about the characteristics of a property.
 
 Use this section to learn about the entity or individual responsible for the property. This helps you identify key decision-makers or stakeholders associated with a building or location.
 
+> **Tip:** Click the Owner name to see all the properties with that owner in the property list panel.
+
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/b65eb3ae753cfeba3bfa7547d9bcb5a6f99847af/images/deep-dive-into-the-property-details-panel-image-v6ccgwsc.jpg)
+
 ## Occupants section
 
 Use this section to learn more about businesses, organizations, or individuals currently residing or operating within a specific property. For more, see (coming soon).
@@ -125,6 +148,8 @@ Use this section to learn more about businesses, organizations, or individuals c
 Use the Cards section to create To-Dos for yourself.
 
 1. Click + Add Card.
+
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/1c682de3d486a0095b3d8ed0906fc528c4394e1a/images/deep-dive-into-the-property-details-panel-image-sr3laj7w.jpg)
 
 2. Click the new card bar that appears to open it.
 
@@ -136,6 +161,8 @@ Use the Cards section to create To-Dos for yourself.
    - Locate on map.
    - View in board.
    - Delete card.
+
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/fd1e35d9231de6f10141eccf9ee31fce2c97606f/images/deep-dive-into-the-property-details-panel-image-baooh1o4.jpg)
 
 4. The changes automatically save, so click X to close the pop-up.
 
@@ -156,6 +183,8 @@ Use this feature to associate assets with properties to easily access, organize,
 ## Permits section
 
 Use this section to view all the permits for that property. To access the Permits screen, click See All.
+
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/6f9a1029e7232532ccab40660977cae8df9b6ec8/images/deep-dive-into-the-property-details-panel-image-yg8t4rvq.jpg)
 
 ## Activity Log section
 
