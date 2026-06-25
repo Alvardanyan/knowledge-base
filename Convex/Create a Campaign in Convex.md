@@ -23,11 +23,13 @@ Treat a campaign as your lead list of properties that optimize your sales strate
 
 2. After you have the list of properties that you are comfortable working with, click View Properties.
 
-3. If you want to include all the buildings in the list to the campaign, click Select All.
+3. If you want to include all the buildings in the list to the campaign, click Select All. Otherwise, select the individual properties.
 
-   Otherwise, select the individual properties.
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/568158a73ba22f0f0d3b90e21e80932b95a1cfd6/images/create-a-campaign-in-convex-image-gqgn9dhc.png)
 
 4. The Actions dropdown menu appears, select Assign to campaign.
+
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/55f1907c85818f00e266c1003a2b33ac5f21a8f5/images/create-a-campaign-in-convex-image-6efgy68y.png)
 
 5. The Campaigns screen opens. Here you can:
 
@@ -42,6 +44,7 @@ Treat a campaign as your lead list of properties that optimize your sales strate
    a. In the Search or Create New bar, enter the name of the campaign.
 
    b. When finished, click Create, then click Apply.
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/f92c71d63e9552ba62a143ab1cb4a1a449dfd68a/images/create-a-campaign-in-convex-image-jlx1uodb.png)
 
 > **Note:** After the campaign is created the tag with the campaign name appears on the property.
 
@@ -54,6 +57,8 @@ You can manage campaigns from the property details panel (PDP) and the Dashboard
 1. Click Campaigns.
 
 2. From the Campaign pop-up that opens, click Manage.
+
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/2465c2878b46eb2749734f184978c430239504fa/images/create-a-campaign-in-convex-image-djdzv849.png)
 
 3. From the Manage Campaigns screen that opens, you can:
 
@@ -77,9 +82,12 @@ You can manage campaigns from the property details panel (PDP) and the Dashboard
 
 > **Note:** This applies only to the campaigns you created.
 
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/88bca1866fa6046bd807d12600b6e592a3121cff/images/create-a-campaign-in-convex-image-0ms2cn3u.png)
+
    g. Change the view of the campaign table by hovering over the column name and clicking More.
 
    i. On the pop-up that opens, select how you want to organize the column.
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/c10a61c3ef270ea235b88184626440e9576a211e/images/create-a-campaign-in-convex-image-ieomzhqh.png)
 
    ii. On the pop-up that opens, click layout-three-columns to select the columns you want to have on a table.
 
