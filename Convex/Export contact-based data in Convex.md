@@ -28,6 +28,8 @@ You can export the contact-based data in two ways:
 
 3. When you are satisfied with the results, click View Contacts.
 
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/94105de997c43eadf5a010cbcd34455f45541ebd/images/export-contact-based-data-in-convex-image-uuedwrnw.jpg)
+
 4. From the People screen that opens, click Export.
 
 5. In the Export Contacts pop-up that opens, click Continue.
@@ -43,6 +45,8 @@ You can export the contact-based data in two ways:
 1. Go to Targets and click the target list you want to export.
 
 2. On the target list screen that opens, click Export.
+
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/2926362fbb2dd514e1d3a761f874c6d05d1f4fa2/images/export-contact-based-data-in-convex-image-v0gzbo3b.jpg)
 
 3. In the Export pop-up that opens, click Export.
 
