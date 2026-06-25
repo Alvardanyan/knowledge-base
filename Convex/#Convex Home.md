@@ -6,6 +6,8 @@ Convex consolidates proprietary data into a property-focused view to identify qu
 properties and key decision-makers — helping your team plan, target, and manage opportunities
 for faster revenue growth.
 
+![Alt text](https://github.com/Alvardanyan/knowledge-base-portfolio/blob/7c25abab6754f56cc18b5c87375aeb37f9d37f92/images/convex-image-khhdo9i1.jpg)
+
 ## Setup Checklist
 
 #### Required Access
